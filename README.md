@@ -1,24 +1,12 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+アプリケーション名：The First Training（ORIGINAL-APP)
+アプリケーション概要：筋トレの紹介（画像・映像）。結果を共有。みんなで考える。オリジナルトレーニング方法。BMI計測。
+                  基本的には、投稿型をベース。いいね機能を追加。
+URL：
+テスト用アカウント：
+利用方法：
+目指した課題解決：
+洗い出した要件：
+実装した機能についてのGIFと説明：
+実装予定の機能：
+データベース設計：
+ローカルでの動作方法：
